@@ -1,4 +1,4 @@
-package org.example.mqtt.navtive;
+package org.example.mqtt.paho;
 
 import org.eclipse.paho.client.mqttv3.MqttClient;
 import org.eclipse.paho.client.mqttv3.MqttConnectOptions;
