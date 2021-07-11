@@ -1,7 +1,7 @@
 
 
 
-# spring matt support 
+# spring mqtt support 
 https://docs.spring.io/spring-integration/docs/current/reference/html/mqtt.html
 
 # paho
